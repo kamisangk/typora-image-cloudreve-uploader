@@ -2,10 +2,9 @@
 
 一个轻量的Python工具，用于将 [Cloudreve](https://cloudreve.org/) 网盘作为 [Typora](https://typora.io/) 的图床。支持多文件上传、事务回滚、直链生成以及本地映射记录。
 
-## 🚀 快速开始
+## 快速开始
 
 ### 1. 下载与初始化
-在 [Releases](此处填写你的GitHub Release链接) 页面下载最新的 `TyporaImageCloudreveUploader`。
 
 首次运行程序（双击或命令行运行），程序会在当前目录下自动生成 `conf` 文件夹和配置文件模板。
 
